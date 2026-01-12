@@ -10,7 +10,6 @@ int fibo(int n){
     return fibo(n-1)+fibo(n-2);
 
 }
-
 int main(){
     int a;
     int count =0;
@@ -22,4 +21,8 @@ int main(){
 
     cout<<"the sum is :"<<count;
 
+    return 0;
+
 }
+
+
